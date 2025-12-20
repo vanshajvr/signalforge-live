@@ -46,7 +46,7 @@ pip install yfinance ta gspread oauth2client scikit-learn pandas matplotlib
 
 ## 🎥 Demo Videos
 - Strategy Logic & Code Flow: [Insert Link Here]
-- ML Predictions & Google Sheets Integration: [Insert Link Here]
+- [ML Predictions & Google Sheets Integration](https://docs.google.com/spreadsheets/d/1CRLLwpluvyTambBjM_5vpVhi3iUbTJXbx8K-dycx1vY/edit?gid=1864352357#gid=1864352357)
 
 ## 🙋 Author
 Vanshaj Verma — NSUT'27 | ICE Dept
