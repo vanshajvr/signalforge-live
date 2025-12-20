@@ -2,7 +2,7 @@
 
 A mini algo-trading prototype using RSI & DMA strategy, ML-based predictions, and Google Sheets automation.
 
-## 📌 Overview
+## Overview
 This project implements an automated trading system prototype that:
 
 - Fetches historical stock data for NIFTY 50 stocks from Yahoo Finance.
@@ -11,7 +11,7 @@ This project implements an automated trading system prototype that:
 - Logs trades and performance metrics automatically to Google Sheets.
 - Calculates and displays trade PnL and win ratio for performance analysis.
 
-## ⚙️ Features
+## Features
 
 - **Technical Indicators:** RSI (14-day), 20-day & 50-day moving averages.
 - **Trading Signals:** Buy when RSI < 30 and 20DMA crosses above 50DMA.
@@ -19,20 +19,20 @@ This project implements an automated trading system prototype that:
 - **Automation:** Google Sheets integration for live trade logs and PnL summaries.
 - **Modular Code:** Functions organised for data fetching, indicator calculation, signal generation, ML modelling, and Google Sheets updates.
 
-## 🧠 Machine Learning Details
+## Machine Learning Details
 
 - Input features: RSI, MACD (and its components), and trading volume.
 - Target: Binary classification of next-day price movement (up/down).
 - Models implemented: Logistic Regression and Decision Tree.
 - Achieved around 60% accuracy with Decision Tree.
 
-## 📤 Google Sheets Automation
+## Google Sheets Automation
 
 - Trade signals and related metrics logged in "Trade Log" sheet.
 - Summary tab includes total trades, wins, win ratio, and net PnL.
 - Enables real-time monitoring and performance tracking.
 
-## 📚 Setup & Usage
+## Setup & Usage
 
 1. Clone this repository.
 2. Install required Python packages:
@@ -44,11 +44,11 @@ pip install yfinance ta gspread oauth2client scikit-learn pandas matplotlib
 4. Run the notebook cells sequentially to fetch data, compute indicators, generate signals, train ML models, and update Google Sheets.
 5. Run the notebook cells sequentially to fetch data, compute indicators, generate signals, train ML models, and update Google Sheets.
 
-## 🎥 Demo Videos
+## Demonstrations
 - Strategy Logic & Code Flow: [Insert Link Here]
 - [ML Predictions & Google Sheets Integration](https://docs.google.com/spreadsheets/d/1CRLLwpluvyTambBjM_5vpVhi3iUbTJXbx8K-dycx1vY/edit?gid=1864352357#gid=1864352357)
 
-## 🙋 Author
+## Author
 Vanshaj Verma — NSUT'27 | ICE Dept
 [GitHub](https://github.com/vanshajvr) | [LinkedIn](https://www.linkedin.com/in/vanshajverma60/)
 
