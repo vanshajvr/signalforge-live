@@ -53,4 +53,3 @@ Vanshaj Verma — NSUT'27 | ICE Dept
 [GitHub](https://github.com/vanshajvr) | [LinkedIn](https://www.linkedin.com/in/vanshajverma60/)
 
 
-
