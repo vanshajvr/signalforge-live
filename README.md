@@ -1,4 +1,4 @@
-# AlgoTrading-ML-Automation
+# Signal Forge
 
 A mini algo-trading prototype using RSI & DMA strategy, ML-based predictions, and Google Sheets automation.
 
